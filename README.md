@@ -49,7 +49,7 @@ recon_scanner/
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/recon_scanner.git
+git clone https://github.com/<sakib-011/recon_scanner.git
 cd recon_scanner
 chmod +x main.py
 ```
