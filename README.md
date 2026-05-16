@@ -218,6 +218,6 @@ docker run --rm -v $(pwd)/reports:/app/reports reconx -t example.com --html
 
 ---
 
-## License
 
-MIT — Use responsibly.
+
+
