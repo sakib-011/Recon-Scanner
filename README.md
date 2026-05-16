@@ -216,6 +216,11 @@ docker run --rm -v $(pwd)/reports:/app/reports reconx -t example.com --html
 - This tool is intended for educational purposes, authorized penetration testing, and CTF/lab environments
 - Follow all applicable laws and responsible disclosure practices
 
+## Report Sample 
+<img width="1919" height="926" alt="image" src="https://github.com/user-attachments/assets/3768e7c6-da26-4235-a5c7-f82c35a09ceb" />
+
+
+
 ---
 
 
